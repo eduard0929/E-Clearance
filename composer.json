@@ -1,0 +1,13 @@
+{
+    "name": "hmru/clearance-system",
+    "description": "HRMU Employee Clearance Management System",
+    "require": {
+        "php": ">=7.4",
+        "tecnickcom/tcpdf": "^6.6"
+    },
+    "autoload": {
+        "classmap": [
+            "includes/"
+        ]
+    }
+}
